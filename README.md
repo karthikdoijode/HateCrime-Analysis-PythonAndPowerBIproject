@@ -8,7 +8,7 @@ We may come across Hate speech and Crime against Chinese people during covid tim
 My project collects data of Hate Crime in USA from 1991-2019 which has various details of both offenders and victims.It also contains details of region where hate crime is maximum.
 
 ## About the dataset
-I have wrangled, analysed and cleaned this data which we collected from kaggle website and visulaized in power bi for easy understanding of trends.
+[This](https://www.kaggle.com/datasets/jefferymandrake/us-hate-crimes-data-1991-2019-csv?select=Hate_Crimes_filtered_cols.csv) Data is gathered from kaggle website. I have wrangled, analysed and cleaned this data using jupyter notebook, later we visulaized in power bi for easy understanding of trends.
 
 ## Conclusion of project
 1. 5 years having highest hate crime- 1996,1997,2000,2001,2008
